@@ -830,7 +830,14 @@ form#newsletter_form .error { border: solid 2px #F77070 !important;}
 
 .sub-banner .banner-img1{ background:url(../new-img/images/banner.jpeg) no-repeat; width:100%; height:100%; background-size: cover;}
 
-
+.whatsapp-icon {
+    position: fixed;
+    left: 30px;
+    bottom: 40px;
+    width: 70px;
+    height: 70px;
+    z-index: 999;
+}
 
 
 
