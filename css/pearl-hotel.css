@@ -462,7 +462,7 @@ float:left; font-size: 20px; text-align:center; }
 
 /*..... SUB BANNER ......*/
 .sub-banner{ height:505px; min-height:505px;}
-.sub-banner .banner-img{ background:url(../new-img/images/room-banner.jpg) no-repeat; width:100%; height:100%; background-size: cover;}
+.sub-banner .banner-img{ background:url(../new-img/images/pacfic\ room.png) no-repeat; width:100%; height:100%; background-size: cover;}
 .sub-banner .detail { position: absolute; top:220px; text-align: center; width: 100%;     display: block;}
 .sub-banner .detail h1{ color:#fff; display: block;}
 .sub-banner .detail span{color:#fff; font-size: 20px; display: block;}
